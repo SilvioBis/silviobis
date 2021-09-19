@@ -1,6 +1,5 @@
 ### Hi, I'm Silvio Bis Welcome to my profile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobis&theme=dark&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviobis&show_icons=true&theme=github_dark)
 
