@@ -14,7 +14,7 @@
   
   - :man_technologist: Atualmente trilhando o caminho Front-end Web.
   - :student: Disposto sempre a aprender e buscar novos desafios.
-  - :man_student: ETEC Comendador Joao Rays - SP e cursos livres.
+  - :man_student: ETEC Comendador Joao Rays - SP Desenvolvimento de Sistemas e cursos livres.
   - :vampire_man: Muito produtivo a noite!
   - 🎯 Interesse: JavasCript, CSS3, HTML 5,Bootstrap, Angular, Python, React e entre Outros.
 
